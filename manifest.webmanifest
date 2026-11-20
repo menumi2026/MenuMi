@@ -1,0 +1,1 @@
+{"name": "MenuMi", "short_name": "MenuMi", "start_url": "./", "display": "standalone", "background_color": "#FFF5F8", "theme_color": "#B54770", "icons": [{"src": "logo.png", "sizes": "any", "type": "image/png", "purpose": "any"}]}
